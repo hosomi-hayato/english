@@ -1,0 +1,17 @@
+.boxa{
+	display: flex;
+}
+
+.boxb{
+	margin-left:  300px;
+}
+
+.boxc{
+margin-top: 15px;
+margin-left: 500px;
+}
+
+.boxd{
+margin-top: 15px;
+margin-left: 20px;
+}
